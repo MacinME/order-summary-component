@@ -10,7 +10,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -46,12 +45,12 @@ Users should be able to:
 
 ### Continued development
 
-I would like to continue building complex layouts, and reinforce some CSS sections like responsive design.
-Also want to create projects with JavaScript.
+I would like to continue building complex layouts, and using responsive design.
+Also want to create JavaScript projects.🚀
 
 ### Useful resources
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) - This helped me for create some kind of beutiful transitions over the buttons when hovering. I really liked how it works, and I want to start use them to my future projects.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) - This helped me for create some kind of beautiful transitions over the buttons when hovering. I really liked how it works, and I want to start use them to my future projects.
 - [Image Color Picker](https://imagecolorpicker.com/) - This is an amazing tool when we want to know the exactly color of images or designs parts.
 
 ## Author
