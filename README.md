@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-flexbox-and-media-queries-html-and-css-cnbwlXeYUE)
+- Live Site URL: [Netlify](https://order-summary-macin.netlify.app/)
 
 ## My process
 
